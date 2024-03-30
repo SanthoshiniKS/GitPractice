@@ -1,2 +1,2 @@
 This is a second file
-I added this line
+I added this line.
